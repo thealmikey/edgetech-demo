@@ -1,3 +1,63 @@
 <resources>
     <string name="app_name">EdgeTechDemo</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">First Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <!--<string name="gender_male">Male</string>-->
+    <!--<string name="gender_female">Female</string>-->
+    <string-array name="marital_status">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+    <!--<string name="marital_status_single">Single</string>-->
+    <!--<string name="marital_status_married">Married</string>-->
+    <string name="document_number_hint">Document Number</string>
+    <string name="upload_document">Document Number</string>
+    <string-array name="doc_of_id">
+        <item>National Id</item>
+        <item>Passport</item>
+        <item>Driving Licence</item>
+        <item>Voter Id</item>
+    </string-array>
+    <!--<string name="doc_of_id_nationalId">NationalId</string>-->
+    <!--<string name="doc_of_id_passport">Passport</string>-->
+    <!--<string name="doc_of_id_drivingLicence">Driving Licence</string>-->
+    <!--<string name="doc_of_id_voterId">Voter Id</string>-->
+    <string-array name="resident_types">
+        <item>Resident</item>
+        <item>Non Resident</item>
+        <item>Foreigner</item>
+    </string-array>
+    <!--<string name="resident_type_resident">Resident</string>-->
+    <!--<string name="resident_type_nonResident">Non Resident</string>-->
+    <!--<string name="resident_type_foreigner">Foreigner</string>-->
+    <string-array name="countries">
+        <item>Botswana</item>
+        <item>Kenya</item>
+        <item>Liberia</item>
+        <item>Nigeria</item>
+        <item>Sierra Leone</item>
+        <item>Tanzania</item>
+        <item>Uganda</item>
+    </string-array>
+    <string name="occupation">Occupation</string>
+    <string name="occupation_hint">Occupation</string>
+    <string-array name="income_class">
+        <item>Below 50,000</item>
+        <item>50,001 - 250,000</item>
+        <item>250,001 - 500,000</item>
+        <item>500,001 - less than 1 million</item>
+        <item>1 million - Less than 5 million</item>
+        <item>5million - Less than 10million</item>
+        <item>Above 20 million</item>
+        <item>Not Specified</item>
+    </string-array>
+    <string name="dateHint">
+        dd-mm-yyyy
+    </string>
 </resources>
